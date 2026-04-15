@@ -71,7 +71,11 @@ const Projects = () => {
 
                 {/* BUTTONS */}
                 <div className="card-actions justify-between mt-4">
-                  <a href={project.live} className="btn btn-error btn-sm">
+                  <a
+                    href={project.live}
+                    className="btn btn-error btn-sm"
+                    style={{ padding: "5px" }}
+                  >
                     Live
                   </a>
                 </div>
