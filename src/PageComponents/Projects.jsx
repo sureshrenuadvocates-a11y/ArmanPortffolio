@@ -7,7 +7,7 @@ const Projects = () => {
       desc: "Interactive 3D car experience with scroll animations using React Three Fiber and GSAP.",
       tech: ["React", "Three.js", "GSAP"],
       img: "/images/project1.jpg",
-      live: "#",
+      live: "https://armandev-five.vercel.app/",
     },
     {
       title: "Portfolio Website",
