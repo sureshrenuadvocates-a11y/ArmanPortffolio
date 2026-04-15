@@ -62,7 +62,7 @@ const Projects = () => {
                     <span
                       key={index}
                       className="badge badge-outline"
-                      style={{ width: "100%" }}
+                      style={{ padding: "0.9rem" }}
                     >
                       {t}
                     </span>
@@ -74,7 +74,7 @@ const Projects = () => {
                   <a
                     href={project.live}
                     className="btn btn-error btn-sm"
-                    style={{ padding: "5px" }}
+                    style={{ width: "100%" }}
                   >
                     Live
                   </a>
