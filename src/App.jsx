@@ -10,7 +10,7 @@ const App = () => {
     <>
       <div
         style={{ padding: "1.5rem", margin: "1.5rem" }}
-        className="fixed z-[100] left-0 bottom-0 w-1/3 right-0 h-20 bg-base-300/20 backdrop-blur-md rounded-full flex items-center justify-between px-6 shadow-lg"
+        className="fixed z-[100] left-0 bottom-0 w-1/2 right-0 h-20 bg-base-300/20 backdrop-blur-md rounded-full flex items-center justify-between px-6 shadow-lg"
       >
         <h1 className="text-lg font-semibold">Contact Me</h1>
 
